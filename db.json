@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "assignedTo": ["Seth Mwebi"]
+    },
+    {
+      "id": 2,
+      "title": "48 Laws of Power",
+      "author": "Robert Greene",
+      "assignedTo": ["Charity Nambi"]
+    },
+    {
+      "id": 3,
+      "title": "Hiroshima",
+      "author": "John Hersey",
+      "assignedTo": ["Wilgers Rono", "James Kahwai"]
+    },
+    {
+      "id": 4,
+      "title": "Ego is the Enemy",
+      "author": "Ryan Holiday",
+      "assignedTo": ["Fonte Wanyama", "Nahashon Mwendwa"]
+    },
+    {
+      "id": 5,
+      "title": "The Coddling of the American Mind",
+      "author": "Greg Lukianoff and Jonathan Haidt",
+      "assignedTo": ["Alex Njoroge", "Cindy Akumu"]
+    },
+    {
+      "id": 6,
+      "title": "The Myth of Sisyphus",
+      "author": "Albert Camus",
+      "assignedTo": ["Brenda Kwamboka"]
+    },
+    {
+      "id": 7,
+      "title": "The Black Swan",
+      "author": "Nassim Nicholas Taleb",
+      "assignedTo": ["Nickson Cheruiyot", "Wilson Nyamohanga"]
+    },
+    {
+      "id": 8,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "assignedTo": ["Abdirahman"]
+    },
+    {
+      "id": 9,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "assignedTo": ["Seth Mwebi"]
+    },
+    {
+      "id": 10,
+      "title": "Our Inner Fish",
+      "author": "Neil Shubin",
+      "assignedTo": ["Charity Nambi", "Wilgers Rono"]
+    },
+    {
+      "id": 11,
+      "title": "Fingerprints of the Gods",
+      "author": "Graham Hancock",
+      "assignedTo": ["Ali Fahmy"]
+    },
+    {
+      "id": 12,
+      "title": "The Sacred Mushroom and the Cross",
+      "author": "John M. Allegro",
+      "assignedTo": ["James Kahwai", "Fonte"]
+    }
+  ]
+}

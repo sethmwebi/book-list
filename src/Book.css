@@ -1,0 +1,9 @@
+.book {
+  display: flex;
+  flex-direction: column;
+}
+
+.author {
+  color: #253031;
+  font-size: 14px;
+}
