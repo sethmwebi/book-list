@@ -40,6 +40,7 @@ const App = () => {
       <h2 className="title">Books List</h2>
       <ul>
         {books &&
+          books.length &&
           books.map((book: BookType) => (
             <li key={book.id}>
               <Book
