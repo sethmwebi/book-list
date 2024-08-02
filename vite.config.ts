@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "https://book-list-data.onrender.com",
+        target: "https://book-list-data.onrender.com/books",
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
       },

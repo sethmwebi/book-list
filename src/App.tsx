@@ -12,8 +12,9 @@ const App = () => {
     async function fetchBooks() {
       try {
         // uncomment this line below to use localhost
-        /* const response = await axios.get("http://localhost:4000/books"); */
-        const response = await axios.get("/api/books");
+        const response = await axios.get("http://localhost:4000/books");
+        // TODO: uncomment this when deploying
+        // const response = await axios.get("/api");
 
         setBooks(response.data);
         setLoading(false);
