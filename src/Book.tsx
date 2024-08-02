@@ -1,7 +1,7 @@
 import "./Book.css";
 
 export type BookType = {
-  id: string;
+  id: number;
   title: string;
   author: string;
   assignedTo: string[];

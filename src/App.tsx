@@ -11,7 +11,10 @@ const App = () => {
   useEffect(() => {
     async function fetchBooks() {
       try {
-        const response = await axios.get("http://localhost:4000/books");
+        // uncomment this line below to use localhost
+        /* const response = await axios.get("http://localhost:4000/books"); */
+        const response = await axios.get("/api/books");
+
         setBooks(response.data);
         setLoading(false);
       } catch (error) {
